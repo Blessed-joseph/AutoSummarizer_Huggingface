@@ -1,7 +1,3 @@
-# hugging-face-demo
-
-
-
 ---
 title: Demo
 emoji: 🧪
@@ -14,14 +10,8 @@ pinned: false
 license: cc
 ---
 
-
+# hugging-face-demo
 
 [![CI : Sync to Hugging Face hub](https://github.com/Blessed-joseph/hugging-face-demo/actions/workflows/main.yml/badge.svg)](https://github.com/Blessed-joseph/hugging-face-demo/actions/workflows/main.yml)
 
-
-
-
-[Try Demo Text Summarization Here](
-https://huggingface.co/spaces/Blessed-Joseph/demo2)
-
-
+[Try Demo Text Summarization Here](https://huggingface.co/spaces/Blessed-Joseph/demo2)
