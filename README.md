@@ -13,11 +13,11 @@ license: cc
 
 
 
-# hugging-face-demo
+# AutoSummarizer_Huggingface
 
 ⭐ Demo d'application basée sur Hugging Face et Gradio
 
-[![CI : Sync to Hugging Face hub](https://github.com/Blessed-joseph/hugging-face-demo/actions/workflows/main.yml/badge.svg)](https://github.com/Blessed-joseph/hugging-face-demo/actions/workflows/main.yml)
+[![CI : Sync to Hugging Face hub](https://github.com/Blessed-joseph/AutoSummarizer_Huggingface/actions/workflows/main.yml/badge.svg)](https://github.com/Blessed-joseph/hugging-face-demo/actions/workflows/main.yml)
 
 [Try Demo Text Summarization Here](https://huggingface.co/spaces/Blessed-Joseph/demo2)
 
@@ -38,7 +38,7 @@ Ce projet propose une application simple de résumé de texte utilisant un modè
 ## Installation
 
 ```bash
-git clone https://github.com/Blessed-joseph/hugging-face-demo.git
+git clone https://github.com/Blessed-joseph/AutoSummarizer_Huggingface.git
 cd hugging-face-demo
 pip install -r requirements.txt
 ```
